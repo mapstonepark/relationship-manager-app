@@ -4,7 +4,26 @@
     "ejs": "^3.1.8",
     "express": "^4.18.2",
     "mongodb": "^4.10.0",
-    "nodemon": "^2.0.20",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "scratch",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
     "tailwindcss": "^3.1.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapstonepark/relationship-manager-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapstonepark/relationship-manager-app/issues"
+  },
+  "homepage": "https://github.com/mapstonepark/relationship-manager-app#readme",
+  "description": ""
 }
